@@ -1,2 +1,7 @@
 Hello Everyone
+<<<<<<< HEAD
 how you doing?
+=======
+good to see you.
+bye
+>>>>>>> b1
